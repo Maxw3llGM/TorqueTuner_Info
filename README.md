@@ -2,11 +2,15 @@
 This repository is meant to link all repositories and literature related to the TorqueTuner.
 ## Description
 The TorqueTuner (TT) was first developped in 2020 by Kirkegaard, Bredholt, Frisson and Wanderley as an embedded haptic module for DMIs like the T-Stick. It's main focuse was simulation of haptic effects associated with turning a knob, affordability and portability of force feedback devices.
-    
+!()[figures/standalone_knob_open.jpg]
 Afterwards, it was further developped to be a prototyping and authoring tool of 1-DOF haptic effects for the IDMIL, replacing the initial motor with a more powerful one.
-
+!()[figures/20220607_102757-1024x485.jpg]
 It is wifi capable and can run OSC and Libmapper over the local network thanks to the esp32.
 You can learn more about it in the links provided below.
+
+## Hardware
+    
+    
 ## Future Work
 This is an open source-project, as such all documents and information is made available to anyone who wished to replicate the TorqueTuner. Any future development is meant to furhter the project but not replace what has currently been done.
 
@@ -24,6 +28,7 @@ This is an open source-project, as such all documents and information is made av
 * https://github.com/Maxw3llGM/TorqueTuner_Template_project
 * https://feelix.xyz/
 * https://sat-mtl.gitlab.io/collaborations/google-summer-of-code/posts/2023-contributions/maxw3llgm/work-product-maxw3llgm-audio-to-haptic-interaction-design-with-feelix-supporting-torquetuner/
+
 ## Related Literature
 
 * [TorqueTuner: A self contained module for designing rotary
@@ -33,5 +38,7 @@ haptic force feedback for digital musical instruments](https://www.nime.org/proc
 
 * [ForceHost: an open-source toolchain for generating firmware embedding the authoring and rendering of audio and force-feedback haptics](https://www.researchgate.net/publication/361591242_ForceHost_an_open-source_toolchain_for_generating_firmware_embedding_the_authoring_and_rendering_of_audio_and_force-feedback_haptics) (Frisson et al., 2022)
 
-    
+* [Haptic techniques for media control](http://code.arc.cmu.edu/archive/dmgftp/public_html/publications/uist04/uist_papers/Haptic%20Techniques%20for%20Media%20Control.pdf) (Snibbe et al., 2001)
+
+* [Challenges and Opportunities of Force Feedback in Music](https://www.mdpi.com/2076-0752/12/4/147) (Frisson and Wanderley, 2023)
 
