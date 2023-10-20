@@ -3,11 +3,15 @@ This repository is meant to link all repositories and literature related to the 
 ## Description
 The TorqueTuner (TT) was first developped in 2020 by Kirkegaard, Bredholt, Frisson and Wanderley as an embedded haptic module for DMIs like the T-Stick. It's main focuse was simulation of haptic effects associated with turning a knob, affordability and portability of force feedback devices.
 
-<img src="/figures/standalone_knob_open.jpg" height="400" >
+
+<img src="/figures/standalone_knob_open.jpg">
+
 
 Afterwards, it was further developped to be a prototyping and authoring tool of 1-DOF haptic effects for the IDMIL, replacing the initial motor with a more powerful one.
 
-<img src="/figures/20220607_102757-1024x485.jpg" height="200">
+
+<img src="/figures/20220607_102757-1024x485.jpg">
+
 
 It is wifi capable and can run OSC and Libmapper over the local network thanks to the esp32.
 You can learn more about it in the links provided below.
